@@ -29,8 +29,8 @@ pip install -r requirements.txt
 python factory_schedule.py
 ```
 
-- **Solves the scheduling problem
-- **Prints start/end times per task and total makespan
-- **Displays a Gantt chart of machine schedules
-- **Shows machine utilization percentages
+- **Solves the scheduling problem**
+- **Prints start/end times per task and total makespan**
+- **Displays a Gantt chart of machine schedules**
+- **Shows machine utilization percentages**
 
