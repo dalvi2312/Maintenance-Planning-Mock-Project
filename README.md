@@ -23,14 +23,14 @@ source env/bin/activate        # Unix/macOS
 pip install -r requirements.txt
 ```
 
-##🚀 Usage
+## 🚀 Usage
 
 ```bash
 python factory_schedule.py
 ```
 
-- ##Solves the scheduling problem
-- ##Prints start/end times per task and total makespan
-- ##Displays a Gantt chart of machine schedules
-- ##Shows machine utilization percentages
+- **Solves the scheduling problem
+- **Prints start/end times per task and total makespan
+- **Displays a Gantt chart of machine schedules
+- **Shows machine utilization percentages
 
